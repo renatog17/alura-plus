@@ -3,6 +3,6 @@ This repository consists of a page from Alura Plus, which was created during the
 
 Alura course: HTML e CSS: praticando HTML/CSS
 
-Concepts covered
+Concepts covered:
 
-*Pattern BEM
+* Pattern BEM
