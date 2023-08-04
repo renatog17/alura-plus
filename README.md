@@ -5,4 +5,4 @@ Alura course: HTML e CSS: praticando HTML/CSS
 
 Concepts covered
 
-Pattern BEM
+*Pattern BEM
